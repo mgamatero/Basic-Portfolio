@@ -1,0 +1,35 @@
+
+body{
+    box-sizing: border-box;
+    
+}
+h1 {
+    color: white;
+    background-color: #4aaaa5; 
+    border-color: #cccccc;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    width: 325px;
+    margin-top: 10px;
+    margin-left: 80px;
+    margin-right: 0px;
+    padding:20px;
+}
+
+#nav_bar{
+    
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    color: #777777;
+    padding: 14px 16px;
+}
+#main_section{
+    width: 690px;
+    
+}
+#main_section h1{
+    clear:both; 
+    background-color: white;
+    color: #4aaaa5;
+    border-bottom: 10px;
+    border-bottom-color:#777777;
+}
+
